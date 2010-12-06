@@ -1,6 +1,6 @@
 'Panel / Content Grouping' Draft for jQuery UI
 (ist-ui-panel)
-
+asdfasdfasdf
 Grab documentation & latest source at 
 http://github.com/idlesign/ist-ui-panel/
 
